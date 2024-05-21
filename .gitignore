@@ -1,0 +1,8 @@
+# GOOGLE CLOUD CREDENTIALS
+*.json
+
+# Virtual Environmnet
+venv/
+
+# Testing Script
+main.py
